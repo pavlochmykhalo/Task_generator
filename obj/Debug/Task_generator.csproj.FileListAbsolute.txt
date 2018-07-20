@@ -1,0 +1,12 @@
+c:\users\v-pachm\documents\visual studio 2015\Projects\Task_generator\Task_generator\bin\Debug\Task_generator.exe.config
+c:\users\v-pachm\documents\visual studio 2015\Projects\Task_generator\Task_generator\bin\Debug\Task_generator.exe
+c:\users\v-pachm\documents\visual studio 2015\Projects\Task_generator\Task_generator\bin\Debug\Task_generator.pdb
+c:\users\v-pachm\documents\visual studio 2015\Projects\Task_generator\Task_generator\obj\Debug\Task_generator.csprojResolveAssemblyReference.cache
+c:\users\v-pachm\documents\visual studio 2015\Projects\Task_generator\Task_generator\obj\Debug\Task_generator.exe
+c:\users\v-pachm\documents\visual studio 2015\Projects\Task_generator\Task_generator\obj\Debug\Task_generator.pdb
+C:\Ddrive\zzzzzPersonal_projects\Task_generator\Task_generator\bin\Debug\Task_generator.exe.config
+C:\Ddrive\zzzzzPersonal_projects\Task_generator\Task_generator\obj\Debug\Task_generator.exe
+C:\Ddrive\zzzzzPersonal_projects\Task_generator\Task_generator\obj\Debug\Task_generator.pdb
+C:\Ddrive\zzzzzPersonal_projects\Task_generator\Task_generator\bin\Debug\Task_generator.exe
+C:\Ddrive\zzzzzPersonal_projects\Task_generator\Task_generator\bin\Debug\Task_generator.pdb
+C:\Ddrive\zzzzzPersonal_projects\Task_generator\Task_generator\obj\Debug\Task_generator.csprojResolveAssemblyReference.cache
